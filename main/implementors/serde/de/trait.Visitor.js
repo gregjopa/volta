@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["volta_core"] = [{"text":"impl&lt;'de, K, V&gt; Visitor&lt;'de&gt; for BinVisitor&lt;K, V&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;K: Deserialize&lt;'de&gt; + Hash + Eq,<br>&nbsp;&nbsp;&nbsp;&nbsp;V: Deserialize&lt;'de&gt; + Clone,&nbsp;</span>","synthetic":false,"types":[]},{"text":"impl&lt;'de&gt; Visitor&lt;'de&gt; for VersionVisitor","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

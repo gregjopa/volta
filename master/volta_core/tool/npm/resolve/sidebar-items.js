@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["fetch_npm_index",""],["public_npm_version_index",""],["resolve",""],["resolve_semver",""],["resolve_tag",""]],"static":[["NPM_ABBREVIATED_ACCEPT_HEADER",""]]});
